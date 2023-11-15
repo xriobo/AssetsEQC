@@ -1,3 +1,40 @@
 {
-    "participants": ["Trophi holder", "Federico quinto", "Check Norris", "YusepMourinho", "Guachufleibas", "Kolmunt 78", "Ywidkbs", "Baiteo Coreano", "NextLevelPlayer", "amigoinformatico"]
+    "participants": [
+		{	"name": "Velon",
+			"egoQName": "Chumayusi"
+		},
+		{	"name": "Cesitar",
+			"egoQName": "Lord Caesar"
+		},
+		{	"name": "Ibai",
+			"egoQName": "htmad"
+		},
+		{	"name": "Kosky",
+			"egoQName": "Elmillosky"
+		},
+		{	"name": "Marcos",
+			"egoQName": "The gdz"
+		},
+		{	"name": "Moshto",
+			"egoQName": "El Moco de Paz"
+		},
+		{	"name": "Paz",
+			"egoQName": "EkkotheEgo"
+		},
+		{	"name": "Sito",
+			"egoQName": "AeldraSigmaHype"
+		},
+		{	"name": "Uri",
+			"egoQName": "Weadanu"
+		},
+		{	"name": "Meteor",
+			"egoQName": "Pitagoras"
+		},
+		{	"name": "Yago",
+			"egoQName": "Fizz el humilde"
+		},
+		{	"name": "Xabi",
+			"egoQName": "Uknown"
+		}
+	]
 }
