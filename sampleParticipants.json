@@ -2,6 +2,12 @@
     "participants": [
 		{	"name": "Xabi",
 			"egoQName": "Mr VB6"
+		},
+	    	{	"name": "Velon",
+			"egoQName": "Velonidas"
+		},
+	    	{	"name": "Yaguito",
+			"egoQName": "Yago FTW"
 		}
 	]
 }
