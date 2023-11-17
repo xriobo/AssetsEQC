@@ -7,7 +7,10 @@
 			"egoQName": "Velonidas"
 		},
 	    	{	"name": "Yaguito",
-			"egoQName": "Yago FTW"
+			"egoQName": "YaguitoForTheWin"
+		},
+	    	{	"name": "Test",
+			"egoQName": "What About Gank"
 		}
 	]
 }
