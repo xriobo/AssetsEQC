@@ -1,31 +1,38 @@
 {
     "participants": [
 		{	"name": "Xabi",
-			"egoQName": "Mr VB6"
+			"egoQName": "Mr VB6",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Velon",
-			"egoQName": "Velonidas"
+			"egoQName": "Velonidas",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Yago",
-			"egoQName": "YagoForTheWin"
+			"egoQName": "YagoForTheWin",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Kosky",
-			"egoQName": "Kaiuro"
+			"egoQName": "Kaiuro",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Paz",
-			"egoQName": "Slash GNR"
+			"egoQName": "Slash GNR",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Uri",
 			"egoQName": "Ciloxh"
 		},
 	    	{	"name": "Moshto",
-			"egoQName": "Moshtibiris"
+			"egoQName": "Moshtibiris",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Varo",
 			"egoQName": "Varo El Rocoso"
 		},
 	    	{	"name": "Ibai",
-			"egoQName": "Kolmunt78"
+			"egoQName": "Kolmunt78",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Marcos",
 			"egoQName": "Fuffu"
@@ -34,10 +41,12 @@
 			"egoQName": "Meteor1"
 		},
 	    	{	"name": "Cesitar",
-			"egoQName": "Whiiite Cross"
+			"egoQName": "Whiiite Cross",
+			"rewardCandidate": true
 		},
 	    	{	"name": "Sito",
-			"egoQName": "SiTop"
+			"egoQName": "SiTop",
+			"rewardCandidate": true
 		}
 	]
 }
