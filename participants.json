@@ -8,12 +8,12 @@
 		{	"name": "Cesitar",
 			"password":"484ac4d1-5f41-421f-ad06-a931d97ecc44",
 			"egoQName": "Lord Caesar",
-			"rewardCandidate": false
+			"rewardCandidate": true
 		},
 		{	"name": "Ibai",
 			"password":"411a78ae-4a73-4f5f-8f1b-0b4c8e2b3c8e",
 			"egoQName": "htmad",
-			"rewardCandidate": false
+			"rewardCandidate": true
 		},
 		{	"name": "Kosky",
 			"password":"e40bbee9-7bf1-490b-9c01-9fd387995c5b",
