@@ -6,7 +6,7 @@
 	    	{	"name": "Velon",
 			"egoQName": "Velonidas"
 		},
-	    	{	"name": "Yaguito",
+	    	{	"name": "Yago",
 			"egoQName": "YagoForTheWin"
 		},
 	    	{	"name": "Kosky",
@@ -35,6 +35,9 @@
 		},
 	    	{	"name": "Cesitar",
 			"egoQName": "Whiiite Cross"
+		},
+	    	{	"name": "Sito",
+			"egoQName": "SiTop"
 		}
 	]
 }
