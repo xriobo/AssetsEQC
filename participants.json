@@ -4,6 +4,7 @@
 		{	"name": "Velon",
 			"summonerName": "Varo Lover",
 			"tagLine": "4795",
+			"puuid": "11DJ2lDO6l4juJ0msYFG2YYDfsFSaZkwN2Hf8-AVZHD5KlfzVyxus35g-NAwrCEad3fllWPLuJIeOg",
 			"rewardCandidate": true
 		},
 		{	"name": "Cesitar",
@@ -14,21 +15,25 @@
 		{	"name": "Ibai",
 			"summonerName": "Kolmunt78",
 			"tagLine": "EUW",
+			"puuid": "1USZv9YTRL2Gw7yNZgDtKF5bPbZXxqYrRjd8YE_MiIrzyL1TqGfOrfvGtJfQk0zpgQsNQpSHgkQsqg",
 			"rewardCandidate": true
 		},
 		{	"name": "Kosky",
 			"summonerName": "Elmillosky",
 			"tagLine": "EUW",
+			"puuid": "B-cPO5koCLDUZsnMtkqUF6wqEkwrHvDh90gpsxt-eVhMiO6DLhWM5TOoerZn4dkeZaqxDwDP_KoY8Q",
 			"rewardCandidate": true
 		},
 		{	"name": "Marcos",
 			"summonerName": "The gdz",
 			"tagLine": "EUW",
+			"puuid": "_0El9miH1WefQx1hal9YhaDhiWrcmnlYSPm29h0uUKsDjbl5dS3-h18612xb7kHZLFyUY0OD4h-SKw",
 			"rewardCandidate": false
 		},
 		{	"name": "Moshto",
 			"summonerName": "El Moco de Paz",
 			"tagLine": "EUW",
+			"puuid": "O0AqOnTZj0_ZGFkuY6DXEZgs67Pa3wn7FMAQR-89MbsVK6Ak8jXjvVp_pCPw7yFO0QQMBNV9NogyBg",
 			"rewardCandidate": true
 		},
 		{	"name": "Paz",
@@ -39,26 +44,31 @@
 		{	"name": "Sito",
 			"summonerName": "Garentized Win",
 			"tagLine": "5181",
+			"puuid": "XMJo6cf9gekwCLwJsqTwg8B8KVIqWUXo1jcj_cxdZpp4vSOQHG5HVldtsCQA09mynAkwE_4uVnrS1g",
 			"rewardCandidate": true
 		},
 		{	"name": "Uri",
 			"summonerName": "Ellyssaverse",
 			"tagLine": "5980",
+			"puuid": "JcVATncBiGWXp-SdNOq3HK8lkg9l7n768nwLH4J99Hf05PI_lkB1W0MIqblzWKBovkk4fKWs1hMQ7w",
 			"rewardCandidate": false
 		},
 		{	"name": "Meteor",
 			"summonerName": "Pitagoras",
 			"tagLine": "frl",
+			"puuid": "Ao1JCobokifyAobM4gRrCT246eEBQepB_umv_fCQgLeySkWqg_9MLBMPLpoX3hrvTlS1ECFVLsLFYw",
 			"rewardCandidate": false
 		},
 		{	"name": "Yago",
 			"summonerName": "Fizz ElHumilde",
 			"tagLine": "egoq",
+			"puuid": "wf_JWX0TdvsMc7JeachGGOtHltg0zyWlL6_kgGyN-VRVx-skmaMSxk3hHL_w9V_oY72HQxfyyqdafg",
 			"rewardCandidate": true
 		},
 		{	"name": "Xabi",
 			"summonerName": "EQMrVB6",
 			"tagLine": "mrvb6",
+			"puuid": "iFk1F_kcjtQr_ZQUpRjO0Geln-JVCKeyAKZWjqB83bHm8piRQihn-IqKWIB67rs-t5izukefoigVVA",
 			"rewardCandidate": true
 		}
 	]
