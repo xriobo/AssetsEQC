@@ -1,51 +1,75 @@
 {
     "participants": [
+		{	"name": "Velon",
+			"password":"484ac4d1-5f41-421f-ad06-a931d97ecc44",
+			"summonerName": "Varo Lover",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Cesitar",
+			"password":"484ac4d1-5f41-421f-ad06-a931d97ecc44",
+			"summonerName": "Lord Caesar",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Ibai",
+			"password":"411a78ae-4a73-4f5f-8f1b-0b4c8e2b3c8e",
+			"summonerName": "Kolmunt78",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Kosky",
+			"password":"e40bbee9-7bf1-490b-9c01-9fd387995c5b",
+			"summonerName": "Elmillosky",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Marcos",
+			"password":"23c5f201-1844-42d8-a991-d7e8888e6076",
+			"summonerName": "The gdz",
+			"tagName": "mrvb6",
+			"rewardCandidate": false
+		},
+		{	"name": "Moshto",
+			"password":"56078fd2-7980-40da-854d-d68050c4f0f2",
+			"summonerName": "El Moco de Paz",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Paz",
+			"password":"4a734790-9366-4cc5-8dbe-4b58fc902d8f",
+			"summonerName": "EkkotheEgo",
+			"tagName": "mrvb6",
+			"rewardCandidate": true
+		},
+		{	"name": "Sito",
+			"password":"c43ae20a-2c6b-4089-a3ae-5c09bcf6ab7b",
+			"summonerName": "Garentized Win",
+			"tagName": "5181",
+			"rewardCandidate": true
+		},
+		{	"name": "Uri",
+			"password":"fa49a0ef-28ec-4bdc-8d63-960fffc6bce2",
+			"summonerName": "Ellyssaverse",
+			"tagName": "mrvb6",
+			"rewardCandidate": false
+		},
+		{	"name": "Meteor",
+			"password":"a7bbb20a-3fbd-4d5f-b494-99cb205f560f",
+			"summonerName": "Pitagoras",
+			"tagName": "frl",
+			"rewardCandidate": false
+		},
+		{	"name": "Yago",
+			"password":"3edd50bb-af50-491b-bc8a-0247d0861064",
+			"summonerName": "Fizz ElHumilde",
+			"tagName": "egoq",
+			"rewardCandidate": true
+		},
 		{	"name": "Xabi",
-			"egoQName": "Mr VB6",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Velon",
-			"egoQName": "Velonidas",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Yago",
-			"egoQName": "YagoForTheWin",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Kosky",
-			"egoQName": "Kaiuro",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Paz",
-			"egoQName": "Slash GNR",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Uri",
-			"egoQName": "Ciloxh"
-		},
-	    	{	"name": "Moshto",
-			"egoQName": "Moshtibiris",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Varo",
-			"egoQName": "Varo El Rocoso"
-		},
-	    	{	"name": "Ibai",
-			"egoQName": "Kolmunt78",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Marcos",
-			"egoQName": "Fuffu"
-		},
-	    	{	"name": "Meteor",
-			"egoQName": "Meteor1"
-		},
-	    	{	"name": "Cesitar",
-			"egoQName": "Whiiite Cross",
-			"rewardCandidate": true
-		},
-	    	{	"name": "Sito",
-			"egoQName": "SiTop",
+			"password":"d11e3e5b-5af7-4d53-be8b-987b78f7dd04",
+			"summonerName": "EQMrVB6",
+			"tagName": "mrvb6",
 			"rewardCandidate": true
 		}
 	]
