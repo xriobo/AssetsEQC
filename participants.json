@@ -7,11 +7,6 @@
 			"puuid": "11DJ2lDO6l4juJ0msYFG2YYDfsFSaZkwN2Hf8-AVZHD5KlfzVyxus35g-NAwrCEad3fllWPLuJIeOg",
 			"rewardCandidate": true
 		},
-		{	"name": "Cesitar",
-			"summonerName": "YagoForLose",
-			"tagLine": "TOTNO",
-			"rewardCandidate": true
-		},
 		{	"name": "Ibai",
 			"summonerName": "Kolmunt78",
 			"tagLine": "EUW",
@@ -24,15 +19,16 @@
 			"puuid": "B-cPO5koCLDUZsnMtkqUF6wqEkwrHvDh90gpsxt-eVhMiO6DLhWM5TOoerZn4dkeZaqxDwDP_KoY8Q",
 			"rewardCandidate": true
 		},
+		{	"name": "Marcos",
+			"summonerName": "Federico litro",
+			"tagLine": "2962",
+			"puuid": "_0El9miH1WefQx1hal9YhaDhiWrcmnlYSPm29h0uUKsDjbl5dS3-h18612xb7kHZLFyUY0OD4h-SKw",
+			"rewardCandidate": false
+		},
 		{	"name": "Moshto",
 			"summonerName": "El Moco de Paz",
 			"tagLine": "EUW",
 			"puuid": "O0AqOnTZj0_ZGFkuY6DXEZgs67Pa3wn7FMAQR-89MbsVK6Ak8jXjvVp_pCPw7yFO0QQMBNV9NogyBg",
-			"rewardCandidate": true
-		},
-		{	"name": "Paz",
-			"summonerName": "Kunder93",
-			"tagLine": "EUW",
 			"rewardCandidate": true
 		},
 		{	"name": "Sito",
